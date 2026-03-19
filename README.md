@@ -1,5 +1,5 @@
 # Lag_SMB_UAV
-Code to calculate distributed Geodetic SMB using UAV/satellite stereo pair-derived DEMs, Surface velocity and ice thickness product (e.g. consensus ice thickness, or Millan's ice thickness). Built upon the concept provided in Bhushan et al., 2024 and Van Tricht et al., 2021
+Code to calculate distributed Geodetic MB (Lagrangian) using UAV/satellite stereo pair-derived DEMs, Surface velocity and ice thickness product (e.g. consensus ice thickness, or Millan's ice thickness). Built upon the concept provided in Bhushan et al., 2024 and Van Tricht et al., 2021
 
 Note: It is a work in progress.
 
